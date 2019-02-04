@@ -1,0 +1,8 @@
+@media (max-width: 767px) {
+    /* On small screens, the nav menu spans the full width of the screen. Leave a space for it. */
+    body {
+        padding-top: 50px;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,400i,400,600,700i,900i');
